@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="git://github.com/" name="gh" />
+
+  <project name="CyanogenMod/android_device_samsung_jf-common" path="device/samsung/jf-common" remote="gh" revision="cm-10.1" />
+  <project name="CyanogenMod/android_device_samsung_jflteusc" path="device/samsung/jflteusc" remote="gh" revision="cm-10.1" />
+  <project name="CyanogenMod/android_device_samsung_jflteatt" path="device/samsung/jflteatt" remote="gh" revision="cm-10.1" />
+  <project name="CyanogenMod/android_device_samsung_jfltevzw" path="device/samsung/jfltevzw" remote="gh" revision="cm-10.1" />
+  <project name="CyanogenMod/android_kernel_samsung_jf" path="kernel/samsung/jf-common" remote="gh" revision="cm-10.1" />
+</manifest>
+
